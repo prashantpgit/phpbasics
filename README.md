@@ -1,1 +1,1 @@
-The bits and pieces required to learn for PHP beginners
+All the bits and pieces required to learn for PHP beginners
